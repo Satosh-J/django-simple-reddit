@@ -2,7 +2,9 @@
 Reddit clone written in python using django web framework and twitter's bootstrap.
 
 #Getting up and running
-[redit-test-demo.webm](https://github.com/Satosh-J/django-simple-reddit/assets/95545435/7a6eb2ec-e401-47c6-9054-8f03f626a58c)
+
+[Uploading redit-test-demo.webm…]()
+
 
 The project is using python 3.10.
 
